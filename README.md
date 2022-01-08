@@ -1,5 +1,5 @@
 # Linux multi-threading example
-A implementation of Linux multi-threading on Raspberry Pi 3
+An implementation of Linux multi-threading on Raspberry Pi 3
 
 ## Usage
 ```
